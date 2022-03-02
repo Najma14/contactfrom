@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    background-color: azure;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 20%;
+
+}
+input[type="text"],#Last-Name, textarea,select{
+    width: 90%;
+    box-sizing: border-box;
+    display: block;
+    padding: 10px;
+    border-radius: 4px;
+    border: 2px solid #ccc;
+
+}
+
+.save{
+    position:absolute;
+    background-color: rgb(69, 112, 5);
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: medium;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+.f{
+    margin-left: 40px;
+
+}
+.header{
+    margin-left: 5em;
+}
+
